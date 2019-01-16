@@ -1,0 +1,1 @@
+$('#video').attr('src', "http://" + window.location.host + '/videos');
